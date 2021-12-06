@@ -1,0 +1,43 @@
+{
+  "documentation":[
+    "URL/CreativeWork",
+    "len(15)",
+    "the full documentation of describing web api"
+  ],
+  "category":[
+    "text/thing/url",
+    "len(5)",
+    "a list of keywords"
+    "tags"
+  ],
+  "provider":[
+    "text",
+    "organization/person"
+    "contact"
+  ],
+  "serviceOutput":[
+    "text",
+    "passport/permit"
+  ],
+  "serviceType":[
+    "text",
+    "type"
+  ],
+  "description":[
+    "text",
+    "two to three sentences",
+    "the text above or below the web api name"
+  ],
+  "identifier":[
+    "property value/text/url",
+    "ID"
+  ],
+  "name":[
+    "text",
+    "title"
+  ],
+  "url":[
+    "the url of the web api",
+    "API Portal / Home Page"
+  ]
+}
